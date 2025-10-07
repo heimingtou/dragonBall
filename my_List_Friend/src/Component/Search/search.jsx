@@ -4,7 +4,7 @@ export default function Search({fillText,changeSetFillText}){
     return <>
     <input type="text" style={
        { marginBottom:"30px",
-        width:"50rem",
+        width:"40rem",
         height:"2.5rem",
         borderRadius:"15px",
         paddingLeft:"15px",

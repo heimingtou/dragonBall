@@ -5,7 +5,7 @@ import Review from "../ProfileReview/profileReview";
 import "./ProfileCard.css";
 import { useState } from "react"
 export default function ProfileCard({ profile}) {
-  const [appear,setAppear]=useState(false)
+  const [appear,setAppear]=useState(true)
   return (
     <>
       <div className="Container">

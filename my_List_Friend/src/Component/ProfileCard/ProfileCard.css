@@ -4,9 +4,9 @@
     width: 23rem;
     height: 37rem;
     color: black;
-    gap: 30px;
+    gap: 10px;
     border-radius: 30px;
-    
+    box-shadow: 5px 10px 15px rgba(215, 229, 67, 0.3);    
 }
 h2{
     font-size: 35px;

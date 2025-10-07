@@ -1,5 +1,12 @@
 .containers{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap:20px;
+}
+.tool{
+    display: flex;
+    flex-direction: row;
     gap:10px;
+    justify-content: center;
+    align-items: center;
 }
