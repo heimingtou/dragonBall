@@ -13,7 +13,7 @@ export default function Selection({opt,changeOpt}){
         fontSize:"20px"
         }
         } onChange={(e)=>changeOpt(e.target.value)}>
-            <option>All</option>
+            <option value="All">All</option>
             {listopt}
         </select>
     )

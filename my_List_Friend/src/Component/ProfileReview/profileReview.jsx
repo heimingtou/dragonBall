@@ -3,7 +3,7 @@ export default function Review(){
     return(
          <div style={
             {
-                paddingTop:"17rem"
+                paddingTop:"16rem"
             }
          }>
             <hr />

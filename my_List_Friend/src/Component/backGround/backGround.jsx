@@ -9,7 +9,7 @@ export default function Background({profile}){
             backgroundPosition: "center",
             display: "flex",
             maxWidth: "100%",
-            height: "10rem",
+            height: "9rem",
             borderRadius: "30px 30px 0 0",
             zIndex:'5'
           }}>
